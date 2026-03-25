@@ -179,7 +179,6 @@
 推荐在线源：
  https://www.iyouhun.com/tv/zb		# 游魂直播源
  https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
- https://3043.kstore.space/bhvip/bhzb.txt # 宝盒直播
  https://develop202.github.io/migu_video/interface.txt # 咪咕IPTV
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
@@ -209,7 +208,9 @@
  https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u # YanG集合源，有部分IPv6
  
 部分海外源：
- http://go8.myartsonline.com/zx/0/港澳4Gtv.txt # 港澳4Gtv
+ https://php.946985.filegear-sg.me/jackTV.m3u # JackTV直播{翻}
+ https://iptv-org.github.io/iptv/index.m3u # 海外TV直播{翻}
+ https://web.utako.moe/jp.m3u # 日本TV直播{翻}
  https://epg.pw/test_channels.m3u # 中国大陆频道
  https://epg.pw/test_channels_hong_kong.m3u # 中国香港频道
  https://epg.pw/test_channels_macau.m3u # 中国澳门频道
@@ -221,13 +222,10 @@
  https://iptv-org.github.io/iptv/index.m3u # 世界各地免费电视频道
 
 其他直播源：
- http://emby.free.coms.su/diyp/live.php # 斗鱼影厅
  https://live.freetv.top/huyayqk.m3u # 虎牙一起看
  https://live.freetv.top/douyuyqk.m3u # 斗鱼一起看
- https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top # YY轮播
- https://www.goodiptv.club/bililive.m3u # 哔哩哔哩直播源
- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u # 虎牙直播源
- https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u # 斗鱼直播源
+ https://gongdian.top/tv/Mursor/yylunbo.m3u # YY轮播
+ https://gongdian.top/tv/Mursor/bililive.m3u # 哔哩哔哩直播源
 ```
 
 ## 免责声明
